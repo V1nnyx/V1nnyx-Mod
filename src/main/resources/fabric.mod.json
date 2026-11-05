@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "v1nnyx",
+  "version": "${version}",
+  "name": "V1NNYX Mod",
+  "description": "Spielt einen Song (Refrain), wenn du auf einem Server einen Spieler toetest. Nur Client-seitig.",
+  "authors": ["V1NNYX"],
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["de.v1nnyx.V1nnyxClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

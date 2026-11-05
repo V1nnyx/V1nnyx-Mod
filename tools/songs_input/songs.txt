@@ -1,0 +1,4 @@
+# Format:  dateiname ; start-sekunde ; dauer-sekunden
+# Lege die Datei mit genau diesem Namen in diesen Ordner.
+# Startsekunde 0 ist nur ein Platzhalter: stell sie auf den Beginn des Refrains/Drops.
+non_mi_innamorero_hoodtrap_slowed.mp3 ; 0 ; 20

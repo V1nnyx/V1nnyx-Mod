@@ -1,0 +1,7 @@
+{
+  "kill_song": {
+    "sounds": [
+      { "name": "v1nnyx:kill_default", "stream": true }
+    ]
+  }
+}
